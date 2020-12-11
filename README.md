@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**Soumi7/Soumi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am Soumi Bardhan, a CSE undergrad 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ml projects.
+<-- - 👯 I’m looking to collaborate on ml prjects.-->
+- 💬 Ask me about Computer vision.
+- 📫 How to reach me: ![linkedin](https://www.linkedin.com/in/soumi-bardhan-8539b3191/)
+- 😄 Pronouns: she, her, hers
+- ⚡ Fun fact: I do a lot of painting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Github Stats!
+
+[![Soumi's github stats](https://github-readme-stats.vercel.app/api?username=Soumi7&show_icons=true)](https://github.com/Soumi7/github-readme-stats)
+
+
+## My top languages!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumi7)](https://github.com/Soumi7/github-readme-stats)
+
+
+
