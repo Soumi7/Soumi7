@@ -20,5 +20,11 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumi7)](https://github.com/Soumi7/github-readme-stats) 
 
-</p>
+<table width="100%">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soumi7&show_icons=true&hide_border=true" /> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumi7&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </td>
+  </tr>
+ <table>
 
