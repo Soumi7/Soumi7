@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 
-# I am Soumi Bardhan, a CSE undergrad 
+# I am Soumi Bardhan, a CSE undergrad at IIIT Kalyani.
 
 - 🔭 I’m currently working on ml projects.
 <-- - 👯 I’m looking to collaborate on ml prjects.-->
