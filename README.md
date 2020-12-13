@@ -2,7 +2,8 @@
 
 ### Hi there! 👋
 
-# I am Soumi Bardhan, a CSE undergrad at IIIT Kalyani 🔭
+# I am Soumi Bardhan, a pre-final year student at IIIT Kalyani 🔭
+I am currently pursuing B.Tech in Computer science and engineering.
 
 - 🔭 I’m currently working on ml projects.
 <-- - 👯 I’m looking to collaborate on ml prjects.-->
