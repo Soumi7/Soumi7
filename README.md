@@ -6,7 +6,7 @@
 I am currently pursuing B.Tech in Computer science and engineering.
 
 - 🔭 I’m currently working on ml projects.
-<-- - 👯 I’m looking to collaborate on ml prjects.-->
+<-- - 👯 I’m looking to collaborate on ml projects.-->
 - 💬 Ask me about Computer vision.
 - 📫 How to reach me: ![linkedin](https://www.linkedin.com/in/soumi-bardhan-8539b3191/)
 - 😄 Pronouns: she, her, hers
