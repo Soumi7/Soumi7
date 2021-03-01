@@ -1,9 +1,9 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-<p align="center"> ### Hi there! 👋 </p>
+<p align="center">  Hi there! 👋 </p>
 
-<p align="center"> # I am Soumi Bardhan, a pre-final year student at IIIT Kalyani 🔭 </p>
-<p align="center"> I am currently pursuing B.Tech in Computer science and engineering.</p>
+<p align="center"> <b>  I am Soumi Bardhan, a pre-final year student at IIIT Kalyani 🔭 </b> </p>
+<p align="center"> <b> I am currently pursuing B.Tech in Computer science and engineering. </b> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Soumi7" alt="Soumi7" /> </p>
 
