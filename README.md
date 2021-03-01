@@ -1,9 +1,13 @@
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
 <p align="center">
 
 ### Hi there! 👋
 
 # I am Soumi Bardhan, a pre-final year student at IIIT Kalyani 🔭
 I am currently pursuing B.Tech in Computer science and engineering.
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Soumi7" alt="Soumi7" /> </p>
 
