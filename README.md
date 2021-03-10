@@ -9,10 +9,10 @@
 
 - 🔭 I’m currently working on comupter vision projects.
 - 💬 Ask me about Computer vision.
-- Google Season of Docs 2020 @SymPy
+- Google Season of Docs 2020 @SymPy ![exp](https://www.youtube.com/watch?v=DKKwBkYNpYc&t=27s)
 - 📫 How to reach me: ![linkedin](https://www.linkedin.com/in/soumi-bardhan-8539b3191/)
 - 😄 Pronouns: she, her, hers
-- ⚡ Fun fact: I do a lot of painting
+- ⚡ Fun fact: I do a lot of painting ![here](https://www.youtube.com/channel/UCHqOCO6wbB8s4pTP8jgStnw)!
 
 ## My Github Stats and top languages!
 
