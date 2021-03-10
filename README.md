@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on ml projects.
 <-- - 👯 I’m looking to collaborate on ml projects.-->
 - 💬 Ask me about Computer vision.
+- Google Season of Docs 2020 @SymPy
 - 📫 How to reach me: ![linkedin](https://www.linkedin.com/in/soumi-bardhan-8539b3191/)
 - 😄 Pronouns: she, her, hers
 - ⚡ Fun fact: I do a lot of painting
