@@ -7,8 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Soumi7" alt="Soumi7" /> </p>
 
-- 🔭 I’m currently working on ml projects.
-<-- - 👯 I’m looking to collaborate on ml projects.-->
+- 🔭 I’m currently working on comupter vision projects.
 - 💬 Ask me about Computer vision.
 - Google Season of Docs 2020 @SymPy
 - 📫 How to reach me: ![linkedin](https://www.linkedin.com/in/soumi-bardhan-8539b3191/)
