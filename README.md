@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on computer vision projects.
 - 💬 Ask me about Computer vision.
-- 🦋 Season of Docs 2020 @SymPy !
+- 🦋 Season of Docs 2020 @SymPy and 2021 @wechaty !
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/soumi-bardhan-8539b3191/)
 - 🛰️ Check out my Medium articles here : https://soumibardhan10.medium.com/
 - 😄 Pronouns: she, her, hers
