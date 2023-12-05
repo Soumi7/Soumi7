@@ -16,13 +16,4 @@
 - ⚡ Fun fact: I do a lot of painting [here](https://www.youtube.com/channel/UCHqOCO6wbB8s4pTP8jgStnw)!
 - 🛰️ Check out my website here : https://soumi7.github.io/
 
-## My Github Stats and top languages!
-
-<table width="100%">
-  <tr>
-    <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soumi7&show_icons=true&hide_border=true" /> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumi7&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </td>
-  </tr>
- <table>
 
